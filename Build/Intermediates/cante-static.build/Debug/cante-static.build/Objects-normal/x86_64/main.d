@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/cante-static/cante-static/main.cpp \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/essentia.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/config.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/types.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/debugging.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/streamutil.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/stringutil.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/essentiautil.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_version.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_math_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array1d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_i_refvec.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array2d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array3d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array1d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array2d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_array3d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array1d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array2d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array3d.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array1d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array2d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_fortran_array3d_utils.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_sparse_matrix_csr.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_stopwatch.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_subscript.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_vec.h \
+  /Users/GinSonic/PHD/01_AutomaticTranscription/2ndRound/Binary/dependencies_static/include/essentia/utils/tnt/tnt_cmat.h
