@@ -14,13 +14,15 @@ This repository contains the c++ source code as well as a static build for OSX (
 
 # Usage
 
-./cante -f <filename> for transcribing a single .wav file
-./cante -r <foldername> for transcribing all wav files in a folder
-./cante -f <filename> -m for transcribing monophonic recordings
+./cante -f [filename] for transcribing a single .wav file
+
+./cante -r [foldername] for transcribing all wav files in a folder
+
+./cante -f [filename] -m for transcribing monophonic recordings
 
 The output .notes.csv folder is placed in the same location as the audio file. The format is specified as follows:
 
-<Onset time[s]>, <Duration [s]>, <MIDI pitch>;
+[Onset time[s]], [Duration [s], [MIDI pitch];
 
 Each row corresponds to a note.
 
