@@ -26,7 +26,7 @@ The output .notes.csv folder is placed in the same location as the audio file. T
 
 Each row corresponds to a note.
 
-Furthermore, a midi file is created for each track. To facilitat synchronization, an A0 note is inserted at time 0.0sec. 
+Furthermore, a midi file is created for each track. To facilitate synchronization, an A0 note is inserted at time 0.0sec. 
 
 
 # Dependencies
