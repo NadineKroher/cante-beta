@@ -1,6 +1,11 @@
 # CANTE - A software tool for automatic transcription of flamenco singing.
 
-This is a beta release of the cante software. It includes the c++ source code as well as a static build for OSX.
+This is a beta release of the CANTE software. CANTE estimates a note-level transcription of the singing voice from monophonic or accompanied flamenco recordings. 
 
-Algorithm and code developed by Nadine Kroher 2014/2015. 
+# Usage
 
+# Dependencies
+
+# License
+
+# Does CANTE work for other genres?
